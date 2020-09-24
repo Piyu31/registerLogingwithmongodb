@@ -1,10 +1,11 @@
                              A Mini project using Flask
 A mini flask based login and signup application for performing Crud ooperations using python flask and mongodb
-library used -Flask, Python, WTForms, Jinja2 and MongoDB ,pymongo
+library used -Flask, Python, WTForms, Jinja2 and MongoDB ,pymongo ,bootstrap ,tailwind
        
        set FLASK_APP=app.py
        set  FLASK_DEBUG=True
        To Run - python -m flask run
+
 
 
 requiremnts:
